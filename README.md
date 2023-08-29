@@ -112,8 +112,8 @@ Meet Pranav Sudhan Alle, a 3rd-year AI & Data Science undergrad with a knack for
 
 Be sure to drop a 🌟 if you like the project!
 
-<div align="center">Made by Pranav Sudhan Alle with ❤ and TypeScript</div>
-<!-- Made by Pranav Sudhan Alle with ❤ and TypeScript  -->
+<div align="center">Made by Pranav Sudhan Alle with ❤ </div>
+<!-- Made by Pranav Sudhan Alle with ❤ and  -->
 
 
 
