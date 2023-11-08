@@ -51,9 +51,7 @@ knowledge in data analysis, machine learning, and statistical modelling within a
    <img src="https://github-readme-stats.vercel.app/api?username=pranavalle1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavalle1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-###
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavalle1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="pranavalle1" /></a> 
