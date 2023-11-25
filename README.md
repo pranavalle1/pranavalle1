@@ -25,7 +25,7 @@ analytical skills and technical expertise to contribute effectively to data-driv
 knowledge in data analysis, machine learning, and statistical modelling within a dynamic and collaborative environment
 - 🔭 I’m currently working on **Anxiety Detection Using Machine Learning**
 
-- 🌱 I’m currently learning **AI & ML (mainly focusing on Tensorflow )**
+- 🌱 I’m currently learning **LLMs**
 
 - 📫 How to reach me **pranavalletech@gmail.com**
 
